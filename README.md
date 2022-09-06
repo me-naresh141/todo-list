@@ -6,7 +6,7 @@ Objective Build an app that is functionally similar to todo app  ,you can find l
 
  * You can view all todos added by  user.
 * You can add a new todo.
-* You can delted todo.
+* You can deleted todo.
 * You  can checkin  and checkout  todo.
 
 # Technology
