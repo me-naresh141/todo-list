@@ -117,6 +117,10 @@ function ccomplete(e) {
   createUi()
 }
 
+new Sortable(ul, {
+  animation: 200,
+})
+
 clearcomplitedBtn.addEventListener('click', ccomplete)
 activeBtn.addEventListener('click', active)
 completedBtn.addEventListener('click', completed)
