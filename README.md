@@ -8,12 +8,14 @@ Objective Build an app that is functionally similar to todo app  ,you can find l
 * You can add a new todo.
 * You can deleted todo.
 * You  can checkin  and checkout  todo.
+* you can  drag and drop your todo.
 
 # Technology
   ##### *Frontend:*
  * HTML 
  * CSS
  * JAVASCRIPT
+
 
 
 ##### *Backend:*
